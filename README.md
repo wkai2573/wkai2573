@@ -1,8 +1,6 @@
-我是炸蝦，小小開發者，
+可愛小炸蝦，小小開發者，
 
-一切都問AI，
-
-好愛Agent。
+愛Agent。
 
 <!--
 **wkai2573/wkai2573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
