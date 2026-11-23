@@ -1,6 +1,13 @@
-可愛小炸蝦，小小開發者，
+### Hi, I'm 炸蝦 (Tempura) 🍤
 
-愛Agent。
+可愛小炸蝦，小小開發者，愛 Agent。  
+Frontend developer building interest-driven web tools, browser games, and playful experiments with **AI Agents**.
+
+---
+
+#### 🚀 Projects & Playground
+- **[炸蝦工具箱 / Tempura Toolbox](https://tempura.page/)** — 100% client-side, privacy-first web utilities.
+- **[炸蝦遊樂場 / Tempura Games](https://games.tempura.page/)** — Web games & Three.js / PeerJS experiments.
 
 <!--
 **wkai2573/wkai2573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
